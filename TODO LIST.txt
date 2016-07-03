@@ -1,0 +1,13 @@
+Step 1 - Decide on techs. E.g.  Should we go for NoSQL or SQL dbs. (Research)
+
+Step 2 - Template for Android app . E.g. Simple Blog app template
+
+Step 3 - Create initial commit and push to github.
+
+Step 3 - Features: 
+
+1. Blog application. 
+2. Recommended.
+3. Different Genres.
+4. upcomming
+5. new releases
